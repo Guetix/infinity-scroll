@@ -1,2 +1,2 @@
 # infinity-scroll
-create an infinity scroll in react using IntersectionObserver
+Create an infinity scroll in React.js using IntersectionObserver
