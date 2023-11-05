@@ -3,8 +3,8 @@ Developed an infinite scrolling feature in React.js leveraging the IntersectionO
 offering a seamless and responsive loading experience as users scroll, enhancing content discovery.
 
 ## Easy Integration of Infinity Scroll in Your React Project
-<br/>
-Steps:
+
+<h3>Steps:</h3>
 <ul>
 <li>Clone or download the Infinity Scroll project. </li>
 <li>Copy the files and paste it into your React project directory.</li>
